@@ -74,4 +74,4 @@ def main():
     generate_ascii_image(image, 'tmp/ascii_out.png')
 
 # to run the code -->
-# main()
+main()
